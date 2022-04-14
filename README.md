@@ -1,3 +1,7 @@
+# IMPORTANTE!
+
+Este fork visa corrigir o erro descrito em Irrationone/cellassign#92 com uma correção sugerida. Se o projeto original for atualizado e o problema corrigido este repositório pode ser descartado 
+
 # cellassign
 
 [![Build Status](https://travis-ci.com/Irrationone/cellassign.svg?token=HqeTkKNZ9uXDwGpFxagC&branch=master)](https://travis-ci.com/Irrationone/cellassign) [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg)](http://bioconda.github.io/recipes/r-cellassign/README.html)
@@ -37,7 +41,7 @@ TensorFlow v2.1.0 (/usr/local/lib/python3.7/site-packages/tensorflow)
 
 ``` r
 install.packages("devtools") # If not already installed
-devtools::install_github("Irrationone/cellassign")
+devtools::install_github("GabrielPlaza95/cellassign")
 ```
 
 
